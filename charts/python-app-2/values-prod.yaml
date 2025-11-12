@@ -1,0 +1,5 @@
+replicaCount: 2
+image:
+  repository: gkadam/python-app-2
+  pullPolicy: IfNotPresent
+  tag: python-app-2-dev-latest
